@@ -1,7 +1,7 @@
 {
   "name": "Dohdle",
   "version": "0.1.0",
-  "homepage": "https://joeruggieri.github.io/dohdle/",
+  "homepage": "https://dohdle.com",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.4.2",
