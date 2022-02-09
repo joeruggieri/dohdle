@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dohdle/static/css/main.c993a41d.css",
+    "main.js": "/dohdle/static/js/main.cc332c7b.js",
+    "static/js/787.ef27d75c.chunk.js": "/dohdle/static/js/787.ef27d75c.chunk.js",
+    "index.html": "/dohdle/index.html",
+    "main.c993a41d.css.map": "/dohdle/static/css/main.c993a41d.css.map",
+    "main.cc332c7b.js.map": "/dohdle/static/js/main.cc332c7b.js.map",
+    "787.ef27d75c.chunk.js.map": "/dohdle/static/js/787.ef27d75c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c993a41d.css",
+    "static/js/main.cc332c7b.js"
+  ]
+}
