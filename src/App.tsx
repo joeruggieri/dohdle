@@ -184,7 +184,7 @@ function App() {
         />
       </div>
       <div className="flex w-80 mx-auto items-center mb-3">
-        <p className="ml-2.5 simpsons-font">The Simpsons Wordle game</p>
+        <p className="ml-2.5 simpsons-font">A Simpsons inspired Wordle game</p>
       </div>
       <Grid
         guesses={guesses}
