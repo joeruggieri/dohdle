@@ -8,6 +8,9 @@ module.exports = {
         'simpsons-dark': '#424F46',
       },
     },
+    fontFamily: {
+      'Simpsons': ['Simpsons']
+    }
   },
   plugins: [],
 }
