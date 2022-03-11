@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.d50f36d6.css",
-    "main.js": "/static/js/main.a25efd34.js",
+    "main.js": "/static/js/main.e241546a.js",
     "static/js/787.ef27d75c.chunk.js": "/static/js/787.ef27d75c.chunk.js",
     "static/media/simpsonfont.woff": "/static/media/simpsonfont.33359b827c53c8168584.woff",
     "index.html": "/index.html",
     "main.d50f36d6.css.map": "/static/css/main.d50f36d6.css.map",
-    "main.a25efd34.js.map": "/static/js/main.a25efd34.js.map",
+    "main.e241546a.js.map": "/static/js/main.e241546a.js.map",
     "787.ef27d75c.chunk.js.map": "/static/js/787.ef27d75c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d50f36d6.css",
-    "static/js/main.a25efd34.js"
+    "static/js/main.e241546a.js"
   ]
 }
