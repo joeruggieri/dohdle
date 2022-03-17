@@ -36,5 +36,4 @@ export const WORDS = [
   'arnie',
   'helen',
   'lewis',
-  'marvin',
 ]
