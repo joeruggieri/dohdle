@@ -1,10 +1,5 @@
-html.dark {
-  background-color: #586e71;
-}
-
 html {
-  background: url(./images/slice_1.png) center repeat-x;
-  background-size: auto 100%;
+  background-color: #fed90f;
 }
 
 @font-face {
