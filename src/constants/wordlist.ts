@@ -60,4 +60,9 @@ export const WORDS = [
   'luigi',
   'doris',
   'shary',
+  'smart',
+  'luann',
+  'gabbo',
+  'snrub',
+  'feare',
 ]
